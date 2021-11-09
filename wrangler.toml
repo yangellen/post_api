@@ -1,0 +1,11 @@
+kv_namespaces = [ 
+	 { binding = "MY_KV", id = "ede53559583e4c7c93b080305d8a8f78" , preview_id = "5137591db7ed423a9f2dbba40cd07173"}
+]
+name = "my-app"
+type = "webpack"
+
+account_id = "cd1566b3a9c8ce754ed886ec7aed5faa"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-11-07"
